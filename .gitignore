@@ -1,6 +1,5 @@
 .vscode
 .idea
-.DS_Store
 *.psd
 # Logs
 logs
